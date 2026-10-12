@@ -1,0 +1,3 @@
+# Core runtime has zero external dependencies (Python standard library only)
+# Development and testing dependencies:
+pytest>=7.0.0
